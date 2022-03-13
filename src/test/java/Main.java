@@ -8,6 +8,7 @@ public class Main {
     public static void print(){
 
         System.out.println("Hello world");
+        ///////// New comment /////////
     }
     public static int add(int num1,int num2){
         System.out.println("Something new");
