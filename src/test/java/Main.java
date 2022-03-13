@@ -5,14 +5,17 @@ public class Main {
         System.out.println(add(4,5));
     }
 
-    public static void print(){
+    public static void print() {
 
         System.out.println("Hello world");
         ///////// New comment /////////
         /////// new comment 2 //////////
-
+    }
     public static int add(int num1,int num2){
         System.out.println("Something new");
         return num1+num2;
+    }
+    public static void test2(){
+        System.out.println("test2");
     }
 }
